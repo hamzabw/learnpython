@@ -1,1 +1,1 @@
-print("Hello World from OpenShift!!!")
+print("Hello World from OpenShift!")
